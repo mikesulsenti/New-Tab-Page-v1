@@ -1,0 +1,14 @@
+.progressbar-green .progressbar-inner{background-color:#ac0;}
+.progressbar-blue .progressbar-inner{background-color:#0095DB;}
+.progressbar-yellow .progressbar-inner{background-color:#fb5;}
+.progressbar-red .progressbar-inner{background-color:#f67;}
+
+
+.donatebar {
+	width:55%; 
+	background-color:#0095DB;
+	}
+
+.rafflebar {width:100%}
+
+/*red C91B2E
